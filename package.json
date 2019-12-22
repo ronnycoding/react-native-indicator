@@ -1,5 +1,5 @@
 {
-  "name": "@gopato/react-native-indicator",
+  "name": "@rfreites/react-native-indicator",
   "version": "0.0.1",
   "description": "React Native Indicator Component",
   "main": "index.js",
